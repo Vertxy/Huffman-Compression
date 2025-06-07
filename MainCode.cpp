@@ -5,16 +5,7 @@
 #include <time.h>
 
 
-/*
-    Refrences: The following numbers refers to the types of refrences we used in this project:
 
-    [1]----> from the Lecures Codes
-    [2]----> we wrote it and ai suggested optimizations
-    [3]----> ai explained and we applied
-    [4]----> external refrences (websites)
-    [5]----> we applied without any help
-    [6]----> help from classmates
-*/
 
 
 
